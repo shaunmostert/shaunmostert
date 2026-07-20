@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Shaun 👋
 
-<!--
-**shaunmostert/shaunmostert** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About me
+I am a student studying CyberSecurity through Google, and working towards the goal of becoming an Incident Responder/Penetration Tester. I am looking for a junior position in the CyberSecurity field to build up experience to eventually reach a more senior position. 
 
-Here are some ideas to get you started:
+## Certificates
+- Google CyberSecurity Analyst (https://www.coursera.org/professional-certificates/google-cybersecurity)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current Goals
+- Build hands-on CyberSecurity projects
+- Learn defensive security & SOC analyst skills
+
+## Skills I am working on
+
+### Security
+- Security fundamentals
+- Threat analysis
+- Incident response
+
+### Technical
+- Linux
+- SQL
+- Python
+- SIEM Tools
+- Creating playbooks
+
+## Contact me
+- LinkedIn:
+- Email: shaunmostert.cs@gmail.com
