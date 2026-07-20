@@ -1,7 +1,10 @@
 # Hi, I'm Shaun 👋
 
-## About me
-I am a student studying CyberSecurity through Google, and working towards the goal of becoming an Incident Responder/Penetration Tester. I am looking for a junior position in the CyberSecurity field to build up experience to eventually reach a more senior position. 
+## About Me
+
+I'm an aspiring cybersecurity professional currently completing the Google Cybersecurity Professional Certificate. I am building practical skills in Security Operations, Incident Response, Linux, Python, SQL, SIEM tools, and other Security Frameworks (such as the NIST Framework).
+
+My goal is to develop a career in cybersecurity, starting in a junior role and growing toward incident response and penetration testing.
 
 ## Certificates
 - Google CyberSecurity Analyst (https://www.coursera.org/professional-certificates/google-cybersecurity)
@@ -10,19 +13,35 @@ I am a student studying CyberSecurity through Google, and working towards the go
 - Build hands-on CyberSecurity projects
 - Learn defensive security & SOC analyst skills
 
-## Skills I am working on
+## Skills & Expertise
 
-### Security
-- Security fundamentals
-- Threat analysis
-- Incident response
+### Professional Skills
+- Communication
+- Leadership
+- Problem Solving
+- Customer Service
+- Team Collaboration
 
-### Technical
-- Linux
-- SQL
-- Python
+### Technical Skills
+
+#### Cybersecurity
+- Security Fundamentals
+- Threat Analysis
+- Incident Response
 - SIEM Tools
-- Creating playbooks
+- Security Playbooks
+
+#### Systems & Networking
+- Linux
+- Windows
+- Networking Fundamentals
+- Command Line
+
+#### Programming & Data
+- Python
+- SQL
+- HTML/CSS
+- Java
 
 ## Contact me
 - LinkedIn: www.linkedin.com/in/shaun-mostert-b97057423
