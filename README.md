@@ -25,5 +25,5 @@ I am a student studying CyberSecurity through Google, and working towards the go
 - Creating playbooks
 
 ## Contact me
-- LinkedIn:
+- LinkedIn: www.linkedin.com/in/shaun-mostert-b97057423
 - Email: shaunmostert.cs@gmail.com
