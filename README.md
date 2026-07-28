@@ -8,6 +8,7 @@ My goal is to develop a career in cybersecurity, starting in a junior role and g
 
 ## Certificates
 - Google CyberSecurity Analyst (https://www.coursera.org/professional-certificates/google-cybersecurity)
+- TryHackMe
 
 ## Current Goals
 - Build hands-on CyberSecurity projects
