@@ -6,11 +6,11 @@ I'm an aspiring cybersecurity professional currently completing the Google Cyber
 
 My goal is to develop a career in cybersecurity, starting in a junior role and growing toward incident response and penetration testing.
 
-***View my projects at my repositories page:***
+***View my projects at my repositories page:*** https://github.com/shaunmostert?tab=repositories
 
 ## Certificates
-- Google CyberSecurity Analyst (In Progress)
-- TryHackMe (In Progress)
+- Google Professional CyberSecurity Course
+- TryHackMe SOC Analyst Level 2 (SAL2)
 
 ## Current Goals
 - Build hands-on CyberSecurity projects
