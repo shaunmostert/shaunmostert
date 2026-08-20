@@ -6,6 +6,8 @@ I'm an aspiring cybersecurity professional currently completing the Google Cyber
 
 My goal is to develop a career in cybersecurity, starting in a junior role and growing toward incident response and penetration testing.
 
+***View my projects at my repositories page:***
+
 ## Certificates
 - Google CyberSecurity Analyst (In Progress)
 - TryHackMe (In Progress)
